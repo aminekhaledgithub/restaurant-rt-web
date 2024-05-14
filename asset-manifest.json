@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/restaurant-rt-web/static/css/main.ebe227b2.css",
+    "main.js": "/restaurant-rt-web/static/js/main.b1652326.js",
+    "static/media/media-instagram.svg": "/restaurant-rt-web/static/media/media-instagram.1feff3ab3f39f7e43f867df5ea12c29e.svg",
+    "static/media/media-whatsapp.svg": "/restaurant-rt-web/static/media/media-whatsapp.436ab4f95e1ea2a8e533a633d65f03ef.svg",
+    "static/media/media-at.svg": "/restaurant-rt-web/static/media/media-at.98d32631cddf8aab2487ae2d5c7b0c0b.svg",
+    "static/media/media-twitter.svg": "/restaurant-rt-web/static/media/media-twitter.25bb1397ec7f1415d8642b1a0544a8bb.svg",
+    "static/media/media-phone.svg": "/restaurant-rt-web/static/media/media-phone.d9a1c467481ecb831bf03ef40ac5ca91.svg",
+    "static/media/media-map-marker.svg": "/restaurant-rt-web/static/media/media-map-marker.f4c6944fa3e332c38781b3975fbae799.svg",
+    "index.html": "/restaurant-rt-web/index.html",
+    "static/media/media-facebook.svg": "/restaurant-rt-web/static/media/media-facebook.3f32f42eee72d45945f8d0eab2fb99c9.svg",
+    "static/media/right-arrow.svg": "/restaurant-rt-web/static/media/right-arrow.c4a1b180d6d118d7a542fc5df8dc9778.svg",
+    "static/media/left-arrow.svg": "/restaurant-rt-web/static/media/left-arrow.53a1b62e1726ccd6c2bfab415d8c6187.svg",
+    "main.ebe227b2.css.map": "/restaurant-rt-web/static/css/main.ebe227b2.css.map",
+    "main.b1652326.js.map": "/restaurant-rt-web/static/js/main.b1652326.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebe227b2.css",
+    "static/js/main.b1652326.js"
+  ]
+}
